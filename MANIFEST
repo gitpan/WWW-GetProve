@@ -1,0 +1,12 @@
+Changes
+LICENSE
+MANIFEST
+META.json
+META.yml
+Makefile.PL
+README
+dist.ini
+lib/WWW/GetProve.pm
+lib/WWW/GetProve/Verification.pm
+t/live.t
+t/release-pod-syntax.t

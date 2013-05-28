@@ -1,0 +1,53 @@
+==================================================
+Changes from 1739-08-14 00:00:00 +0000 to present.
+==================================================
+
+------------------------------------------
+version 0.001 at 2013-05-28 22:14:19 +0000
+------------------------------------------
+
+  Change: ce50ce8d60fadd148b7a5267c13616c3dd2aabe6
+  Author: Torsten Raudssus <torsten@raudss.us>
+  Date : 2013-05-29 00:14:04 +0000
+
+    Make test useless so that i can release ;) 
+
+  Change: a7ff16e85fbef9618dbf8b9ae95d67b8922c9b02
+  Author: Torsten Raudssus <torsten@raudss.us>
+  Date : 2013-05-18 01:29:07 +0000
+
+    Added the so far failing tests (API needs to change) 
+
+  Change: 0077446bd594ca5afa237fd79d02cfa71118fe9c
+  Author: Torsten Raudssus <torsten@raudss.us>
+  Date : 2013-05-18 01:22:14 +0000
+
+    Removed debugging 
+
+  Change: abd7d0c89a43184b3b39faaa04b73b141a9be1dc
+  Author: Torsten Raudssus <torsten@raudss.us>
+  Date : 2013-05-18 01:08:13 +0000
+
+    Fixed 2 bugs, added real working API key so that travis works 
+
+  Change: c6cf29e76a359b968757413a5d9c92ddd10ef252
+  Author: Torsten Raudssus <torsten@raudss.us>
+  Date : 2013-05-15 00:57:13 +0000
+
+    Base requirements and travis config 
+
+  Change: 70c7864d9e36b7f5b27577d861c5f81974864b2b
+  Author: Torsten Raudssus <torsten@raudss.us>
+  Date : 2013-05-15 00:51:34 +0000
+
+    Some more tuning of the API to be a one-command system 
+
+  Change: 87783c76e144a3474bc6eb70478adfee232fb845
+  Author: Torsten Raudssus <torsten@raudss.us>
+  Date : 2013-05-10 01:21:23 +0000
+
+    initial commit 
+
+================
+End of releases.
+================
